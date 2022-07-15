@@ -1,7 +1,7 @@
 <h1 align="center">
   💻<br>Todo Aplication
 </h1>
-<img src="./app/src/main/resources/" alt="Cover projeto" />
+<img src="./app/src/main/resources/cover.png" alt="Cover projeto" />
 
 ✅ Design Responsivo.
 ✅ Todo - Project Manager.
