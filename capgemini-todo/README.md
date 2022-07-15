@@ -23,9 +23,16 @@ O projeto é composto por cinco Telas:
 - **Objetivo:** Manter as tarefas organizadas de cada projeto
 
 ## 📜 Entidades:
+
 - **Projetos:** Nome; Descrição; Data de Criação; Data de atualização;
 - **Tarefas:** Nome; Descrição; Status; Observações; Prazo; Data de Criação; Data de Atualização;
 - **Usuários:** Login; Senha;
+
+## 💻 Regras de negócios:
+
+- **Funcionalidades (CRUD):** Cadastro; Consulta; Atualização; Exclusão;
+- **Sistema:** Irá conter sistema de login;
+- **Requisitos:** Tarefas devem pertencer a um Projeto;
 
 ## 💼 Tecnologias utilizadas
 
